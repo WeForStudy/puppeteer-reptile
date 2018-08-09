@@ -1,2 +1,4 @@
 # puppeteer-reptile
-A reptile simple demo
+How to run this Project?
+npm install / yarn install
+npm run start / yarn run start
